@@ -1,5 +1,5 @@
 # X230 Hackintosh Catalina
-EFI Folder (Clover) and config required to run Thinkpad X230 Hackintosh Catalina 10.15. Files are from @littlegtplr. Added Realtek WLAN kexts (personal preference). Edit config according to your preferences. Suitable for Vanilla approach and SSD hot swap (just replace/paste EFI folder - not recommended though.) 
+EFI Folder (Clover) and config required to run Thinkpad X230 Hackintosh Catalina 10.15. Files are from [@littlegtplr](https://github.com/littlegtplr/Hackintosh-X230-macOS). Added Realtek WLAN kexts (personal preference). Edit config according to your preferences. Suitable for Vanilla approach and SSD hot swap (just replace/paste EFI folder - not recommended though.) 
 
 # What Doesn’t Work?
 
