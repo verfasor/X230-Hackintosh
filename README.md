@@ -65,7 +65,7 @@ I sell modded ThinkPad X230s. I'm an expat in China, and I've connections with T
 
 12. Connect Hackintosh system to the Internet via LAN cable, USD tethering or a Mac-compatible external WiFi adapter.
 
-13. Download & install Clover Configurator on MacOS. Open EFI parition and copy -> paste the the EFI folder once more. 
+13. Download & install Clover Configurator on MacOS. Open EFI partition and copy -> paste the the EFI folder once more. 
 
 14. You may use [Karabiner-Elements](https://pqrs.org/osx/karabiner/) if the keyboard mappings (command and option) are acting up.
 
