@@ -1,5 +1,7 @@
 # X230 Hackintosh Catalina Clover & Config.
 
+Fork or star, it's your call.
+
 ![X230 from 2012 Living The Catalina Dream!](https://i.redd.it/srs2yme8sgr31.jpg)
 
 EFI Folder (Clover), plist, and BOOT required to install/run Thinkpad X230 Hackintosh Catalina 10.15. Files are from [@littlegtplr](https://github.com/littlegtplr/Hackintosh-X230-macOS). Move these files to your EFI Folder. I've got another EFI folder labelled **EFI-test**. Feel free to tinker that also. 
