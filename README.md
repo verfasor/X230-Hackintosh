@@ -19,7 +19,7 @@ The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace
 
 # What Doesn’t Work?
 
-- Inbuilt WiFi, you can hack BIOS/install a Mac-compatible WiFi card. I highly recommend a external device like Comfast CF-811AC for the time being.
+- Inbuilt WiFi, you can hack BIOS/install a Mac-compatible WiFi card. I highly recommend an external device like Comfast CF-811AC for the time being.
 - Fingerprint reader
 
 # FAQ. 
