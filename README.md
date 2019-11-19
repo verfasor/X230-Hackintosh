@@ -1,5 +1,3 @@
-![Downloads badge](https://get-badge.herokuapp.com/mighildotcom/X230-Hackintosh)
-
 # X230 Hackintosh Catalina Clover & Config.
 
 Fork or star, it's your call.
