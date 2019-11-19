@@ -1,3 +1,5 @@
+[![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/mighildotcom/X230-Hackintosh/total.svg)]()
+
 # X230 Hackintosh Catalina Clover & Config.
 
 Fork or star, it's your call.
