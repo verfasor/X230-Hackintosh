@@ -33,7 +33,7 @@ The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace
 
 # TMI
 
-I sell modded ThinkPad X230s. I'm an expat in China, and I've connections with ThinkPad enthusiasts here. We can ship modded X230 machines (1080p mod, 2k mod, Quad code CPU mod, and more) to any country. Email **mighil@pm.me**. or use the email ID in my bio.
+~~I sell modded ThinkPad X230s. I'm an expat in China, and I've connections with ThinkPad enthusiasts here. We can ship modded X230 machines (1080p mod, 2k mod, Quad code CPU mod, and more) to any country. Email **mighil@pm.me**. or use the email ID in my bio.~~ A bit busy. N/A for the time being.
 
 # A better screenshot
 
