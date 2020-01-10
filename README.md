@@ -8,9 +8,9 @@ Fork or star, it's your call.
 
 ![X230 from 2012 Living The Catalina Dream!](https://i.redd.it/2vvckrfosi941.jpg)
 
-EFI Folder (Clover), plist, and BOOT required to install/run Thinkpad X230 Hackintosh Catalina 10.15.2. Move these files to your EFI Folder. I've got another EFI folder labelled **EFI-test**. Feel free to tinker that also. 
+EFI Folder (Clover), plist, and BOOT required to install/run Thinkpad X230 Hackintosh Catalina 10.15.2 & 10.15. Move these files to your EFI Folder. I've got another EFI folder labelled **10.15-test/EFI**. Feel free to tinker that also. 
 
-# #README
+## #README
 
 - Proceed with caution.
 - Kindly delete the RtWlanU & RtWlanU1827 kexts from **kexts/Other** folder.
@@ -21,12 +21,12 @@ I added [Realtek WLAN kexts](https://github.com/chris1111/Wireless-USB-Adapter-C
 
 The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace/paste EFI folder - not recommended though.) 
 
-# What Doesn’t Work?
+## What Doesn’t Work?
 
 - Inbuilt WiFi, you can hack BIOS/install a Mac-compatible WiFi card. I highly recommend an external device like Comfast CF-811AC for the time being.
 - Fingerprint reader
 
-# FAQs. 
+## FAQs. 
 
 - [Reddit Link #1](https://www.reddit.com/r/hackintosh/comments/dfdf3l/x230_from_2012_living_the_catalina_dream/).
 - [Reddit Link #2](https://www.reddit.com/r/thinkpad/comments/elqbd5/mighty_x230_still_got_game_catalina_10152/).
@@ -37,11 +37,11 @@ The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace
 
 ![https://i.redd.it/6rq528gjtgr31.png](https://i.redd.it/6rq528gjtgr31.png)
 
-# How to create a bootable macOS Catalina USB install drive? (on MacOS)
+## How to create a bootable macOS Catalina USB install drive? (on MacOS)
 
 [Refer to this guide from 9to5mac](https://9to5mac.com/2019/06/27/how-to-create-a-bootable-macos-catalina-10-15-usb-install-drive-video/)
 
-# How to create a bootable macOS Catalina USB install drive? (on Windows)
+## How to create a bootable macOS Catalina USB install drive? (on Windows)
 
 1. Install [Transmac](https://www.acutesystems.com/scrtm.htm) on a Windows machine. It has a 15-day trial period and works flawlessly flashing DMG files to USB.
 
