@@ -1,14 +1,14 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E6%94%AF%E4%BB%98%E5%AE%9D-blue)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E5%BE%AE%E4%BF%A1-green)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
 
-**DISCLAIMER: YOU'RE NOTHING BUT AN A-HOLE IF YOU SELL EFI FOLDER (CONFIG) THAT'S ALREADY AVAILABLE FOR FREE OF COST. DON'T DO THAT.**
+**Note: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
-# X230 Hackintosh Catalina Clover & Config.
+# X230 Hackintosh Catalina 10.15.2 Clover & Config.
 
 Fork or star, it's your call.
 
-![X230 from 2012 Living The Catalina Dream!](https://i.redd.it/srs2yme8sgr31.jpg)
+![X230 from 2012 Living The Catalina Dream!](https://i.redd.it/2vvckrfosi941.jpg)
 
-EFI Folder (Clover), plist, and BOOT required to install/run Thinkpad X230 Hackintosh Catalina 10.15. Files are from [@littlegtplr](https://github.com/littlegtplr/Hackintosh-X230-macOS). Move these files to your EFI Folder. I've got another EFI folder labelled **EFI-test**. Feel free to tinker that also. 
+EFI Folder (Clover), plist, and BOOT required to install/run Thinkpad X230 Hackintosh Catalina 10.15.2. Move these files to your EFI Folder. I've got another EFI folder labelled **EFI-test**. Feel free to tinker that also. 
 
 # #README
 
@@ -26,24 +26,26 @@ The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace
 - Inbuilt WiFi, you can hack BIOS/install a Mac-compatible WiFi card. I highly recommend an external device like Comfast CF-811AC for the time being.
 - Fingerprint reader
 
-# FAQ. 
+# FAQs. 
 
-- [Please visit this reddit thread](https://www.reddit.com/r/hackintosh/comments/dfdf3l/x230_from_2012_living_the_catalina_dream/).
+- [Reddit Link #1](https://www.reddit.com/r/hackintosh/comments/dfdf3l/x230_from_2012_living_the_catalina_dream/).
+- [Reddit Link #2](https://www.reddit.com/r/thinkpad/comments/elqbd5/mighty_x230_still_got_game_catalina_10152/).
+- [Reddit Link #2](https://www.reddit.com/r/hackintosh/comments/elqd6k/almost_perfect_thinkpad_x230_running_catalina/).
 - I've used [neofetch](https://github.com/dylanaraps/neofetch) to display system specs via Terminal.
 
-# A better screenshot
+# A better screenshot (10.15)
 
 ![https://i.redd.it/6rq528gjtgr31.png](https://i.redd.it/6rq528gjtgr31.png)
 
-# How to create a bootable macOS Catalina 10.15 USB install drive? (on MacOS)
+# How to create a bootable macOS Catalina USB install drive? (on MacOS)
 
 [Refer to this guide from 9to5mac](https://9to5mac.com/2019/06/27/how-to-create-a-bootable-macos-catalina-10-15-usb-install-drive-video/)
 
-# How to create a bootable macOS Catalina 10.15 USB install drive? (on Windows)
+# How to create a bootable macOS Catalina USB install drive? (on Windows)
 
 1. Install [Transmac](https://www.acutesystems.com/scrtm.htm) on a Windows machine. It has a 15-day trial period and works flawlessly flashing DMG files to USB.
 
-2. Download the [MacOS 10.15 with clover dmg file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP.
+2. Download the [macOS 10.15.2 with clover dmg file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP.
 
 3. Download the EFI folder from this repo.
 
@@ -70,3 +72,6 @@ The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace
 14. You may use [Karabiner-Elements](https://pqrs.org/osx/karabiner/) if the keyboard mappings (command and option) are acting up.
 
 All the best.
+
+### Support
+![Donate](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
