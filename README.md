@@ -30,7 +30,7 @@ The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace
 
 - [Reddit Link #1](https://www.reddit.com/r/hackintosh/comments/dfdf3l/x230_from_2012_living_the_catalina_dream/).
 - [Reddit Link #2](https://www.reddit.com/r/thinkpad/comments/elqbd5/mighty_x230_still_got_game_catalina_10152/).
-- [Reddit Link #2](https://www.reddit.com/r/hackintosh/comments/elqd6k/almost_perfect_thinkpad_x230_running_catalina/).
+- [Reddit Link #3](https://www.reddit.com/r/hackintosh/comments/elqd6k/almost_perfect_thinkpad_x230_running_catalina/).
 - I've used [neofetch](https://github.com/dylanaraps/neofetch) to display system specs via Terminal.
 
 # A better screenshot (10.15)
