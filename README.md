@@ -24,9 +24,11 @@ The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace
 
 Inbuit WiFi by-default won't work.
 
-Atheros AR5B95, Lenovo part number 20002357  is a macOS supported/Lenovo-whitelisted card available for X230. You should IO80211Family.kext after installing the card. 
+Atheros AR5B95, Lenovo part number 20002357  is a macOS supported/Lenovo-whitelisted card available for X230. You should add IO80211Family.kext to Kexts/Other after installing the card. 
 
-Alternativly, you can flash the BIOS and remove the whitelist if you plan to use Broadcom WLAN cards. Stick with a nano-USB WiFi adapter otherwise.
+Alternativly, you can flash the BIOS and remove the whitelist if you plan to use Broadcom WLAN cards. 
+
+Stick with a nano-USB WiFi adapter (something cheap based on Realtek) if you don't want to alter your hardware.
 
 ## What Else Doesn’t Work? 
 
