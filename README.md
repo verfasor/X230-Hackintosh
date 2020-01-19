@@ -13,7 +13,6 @@ EFI Folder (Clover), plist, and BOOT required to install/run Thinkpad X230 Hacki
 ## #README
 
 - Proceed with caution.
-- Kindly delete the RtWlanU & RtWlanU1827 kexts from **kexts/Other** folder.
 - N/A for Opencore bootloader. Go ahead though, if you know what you're doing. 
 - EFI-swap recommended. I haven't tested these settings against the latest version of Clover.
 
@@ -21,10 +20,17 @@ I added [Realtek WLAN kexts](https://github.com/chris1111/Wireless-USB-Adapter-C
 
 The EFI folder is applicable for Vanilla approach and SSD hot-swap (just replace/paste EFI folder - not recommended though.) 
 
-## What Doesn’t Work?
+## WiFi
 
-- Inbuilt WiFi, you can hack BIOS/install a Mac-compatible WiFi card. I highly recommend an external device like Comfast CF-811AC for the time being.
-- Fingerprint reader
+Inbuit WiFi by-default won't work.
+
+Atheros AR5B95, Lenovo part number 20002357  is a macOS supported/Lenovo-whitelisted card available for X230. You should IO80211Family.kext after installing the card. 
+
+Alternativly, you can flash the BIOS and remove the whitelist if you plan to use Broadcom WLAN cards. Stick with a nano-USB WiFi adapter otherwise.
+
+## What Else Doesn’t Work? 
+
+Fingerprint reader & card-reader.
 
 ## FAQs. 
 
