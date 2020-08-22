@@ -57,7 +57,7 @@ Fingerprint reader & card-reader.
 
 1. Install [Transmac](https://www.acutesystems.com/scrtm.htm) on a Windows machine. It has a 15-day trial period and works flawlessly flashing DMG files to USB.
 
-2. Download the [macOS 10.15.2 with clover dmg file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP.
+2. Download the [macOS 10.15.2 with clover dmg file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP. Ignore the security notice when you visit mirrors.dtops.cc. You get that notice since they redistribute repacked DMGs.
 
 3. Download the EFI folder from this repo.
 
