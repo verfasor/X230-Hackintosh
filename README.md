@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E6%94%AF%E4%BB%98%E5%AE%9D-blue)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E5%BE%AE%E4%BF%A1-green)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
 
-**22 Jun 2020: I don't have access to my X230 anymore. Please don't expect updates.**
+**22 Jun 2020: I don't have access to my X230 anymore. Please don't expect updates. Sorry.**
 
 **Note: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
