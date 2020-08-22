@@ -6,7 +6,9 @@
 
 # X230 Hackintosh Catalina 10.15.2 Clover & Config.
 
-Fork or star, it's your call.
+Fork or star, it's your call. 
+
+YOU CAN INSTALL A MACOS-SUPPORTED WIFI CARD WITHOUT FLASHING THE BIOS. READ ON.
 
 ![X230 from 2012 Living The Catalina Dream!](https://i.redd.it/2vvckrfosi941.jpg)
 
