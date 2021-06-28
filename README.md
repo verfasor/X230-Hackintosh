@@ -59,7 +59,7 @@ Fingerprint reader & card-reader.
 
 2. Download the [macOS 10.15.2 with clover dmg file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP. Ignore the security notice when you visit mirrors.dtops.cc. You get that notice since they redistribute repacked DMGs.
 
-3. Download the EFI folder from this repo.
+3. Download the 10.15.2 EFI folder from this repo.
 
 4. Download [Clover Configurator for macOS](https://mackie100projects.altervista.org/download-clover-configurator/) (latest version).
 
