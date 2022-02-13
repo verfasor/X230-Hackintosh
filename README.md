@@ -87,4 +87,4 @@ All the best.
 
 ### Support
 
-Support if you’d like by referring my [resume](https://migftw.com/mp.pdf) or donating through [PayPal](https://www.paypal.com/paypalme/mighil), [Phonepe](https://res.cloudinary.com/mighil/image/upload/v1589876497/phonepe_jtv6mp.png), or [Alipay](https://migftw.com/wp-content/uploads/2019/02/mighil-weixin-pay.jpg).
+Support if you’d like by referring my [resume](https://jotzilla.net/resume) or donating through [PayPal](https://www.paypal.com/paypalme/mighil), [Phonepe](https://res.cloudinary.com/mighil/image/upload/v1589876497/phonepe_jtv6mp.png), or [Alipay](https://migftw.com/wp-content/uploads/2019/02/mighil-weixin-pay.jpg).
