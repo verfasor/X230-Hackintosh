@@ -88,3 +88,24 @@ All the best.
 ### Support
 
 Support if you’d like by referring my [resume](https://jotzilla.net/resume) or donating through [PayPal](https://www.paypal.com/paypalme/mighil), [Phonepe](https://res.cloudinary.com/mighil/image/upload/v1589876497/phonepe_jtv6mp.png), or [Alipay](https://migftw.com/wp-content/uploads/2019/02/mighil-weixin-pay.jpg).
+
+<p> 
+  <a href="https://mp.mt/">
+    <img src="https://img.shields.io/badge/whois-mp.mt-red" />
+  </a>  
+  <a href="https://verfasor.com/">
+    <img src="https://img.shields.io/badge/blog-verfasor.com-blueviolet" />
+  </a>        
+  <a href="https://wr8.in/">
+    <img src="https://img.shields.io/badge/start-wr8.in-green" />
+  </a> 
+  <a href="mailto:verfasor@deadauthor.org">
+    <img src="https://img.shields.io/badge/contact-email-important" />
+  </a>   
+<a href="https://twitter.com/verfasor">
+    <img src="https://img.shields.io/twitter/follow/verfasor?style=social" /> 
+</a>
+<a href="https://github.com/verfasor">
+    <img src="https://img.shields.io/github/followers/verfasor?label=verfasor&logo=GitHub&style=social" />
+</a>  
+</p>
